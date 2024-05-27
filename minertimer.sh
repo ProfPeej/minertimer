@@ -6,7 +6,7 @@
 ###
 
 # Time limit in seconds (e.g., 1800 for half an hour)
-TIME_LIMIT=1800
+TIME_LIMIT=5400
 DISPLAY_5_MIN_WARNING=true
 DISPLAY_1_MIN_WARNING=true
 
